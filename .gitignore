@@ -1,0 +1,23 @@
+# --- JAVA / SPRING BOOT ---
+backend/target/
+backend/mvnw
+backend/mvnw.cmd
+backend/.mvn
+backend/help.md
+*.class
+*.log
+*.jar
+.idea/
+*.iml
+.vscode/
+
+# --- NODE / VUE.JS ---
+frontend/node_modules/
+frontend/dist/
+frontend/npm-debug.log*
+frontend/.vscode/
+
+# --- SYSTEM ---
+.DS_Store
+.env
+.env.local
