@@ -21,3 +21,6 @@ frontend/.vscode/
 .DS_Store
 .env
 .env.local
+
+# Secrets and local config
+backend/src/main/resources/application.properties
